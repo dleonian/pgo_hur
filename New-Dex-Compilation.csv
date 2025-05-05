@@ -1,4 +1,4 @@
-Numero,Pokemon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
+"Numero","Pokemon","Attack","Defense","HP","Tipo1","Tipo2","Legendario"
 1,Bulbasaur,118,111,128,Planta,Veneno,No
 2,Ivysaur,151,143,155,Planta,Veneno,No
 3,Venusaur,198,189,190,Planta,Veneno,No
