@@ -1,0 +1,1000 @@
+﻿#,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
+1,Bulbasaur,118,111,128,Planta,Veneno,No
+2,Ivysaur,151,143,155,Planta,Veneno,No
+3,Venusaur,198,189,190,Planta,Veneno,No
+3,Mega Venusaur,241,246,190,Planta,Veneno,No
+4,Charmander,116,93,118,Fuego,No,No
+5,Charmeleon,158,126,151,Fuego,No,No
+6,Charizard,223,173,186,Fuego,Volador,No
+6,Mega Charizard X,273,213,186,Fuego,Dragon,No
+6,Mega Charizard Y,319,212,186,Fuego,Volador,No
+7,Squirtle,94,121,127,Agua,No,No
+8,Wartortle,126,155,153,Agua,No,No
+9,Blastoise,171,207,188,Agua,No,No
+9,Mega Blastoise,264,237,188,Agua,No,No
+10,Caterpie,55,55,128,Bicho,No,No
+11,Metapod,45,80,137,Bicho,No,No
+12,Butterfree,167,137,155,Bicho,Volador,No
+13,Weedle,63,50,120,Bicho,Veneno,No
+14,Kakuna,46,75,128,Bicho,Veneno,No
+15,Beedrill,169,130,163,Bicho,Veneno,No
+15,Mega Beedrill,303,148,163,Bicho,Veneno,No
+16,Pidgey,85,73,120,Normal,Volador,No
+17,Pidgeotto,117,105,160,Normal,Volador,No
+18,Pidgeot,166,154,195,Normal,Volador,No
+18,Mega Pidgeot,280,175,195,Normal,Volador,No
+19,Rattata,103,70,102,Normal,No,No
+19,Rattata Alola,103,70,102,Siniestro,Normal,No
+20,Raticate,161,139,146,Normal,No,No
+20,Raticate Alola,135,154,181,Siniestro,Normal,No
+21,Spearow,112,60,120,Normal,Volador,No
+22,Fearow,182,133,163,Normal,Volador,No
+23,Ekans,110,97,111,Veneno,No,No
+24,Arbok,167,153,155,Veneno,No,No
+25,Pikachu,112,96,111,Electrico,No,No
+26,Raichu,193,151,155,Electrico,No,No
+26,Raichu Alola,201,154,155,Electrico,Psiquico,No
+27,Sandshrew,126,120,137,Tierra,No,No
+27,Sandshrew Alola,125,129,137,Hielo,Acero,No
+28,Sandslash,182,175,181,Tierra,No,No
+28,Sandslash Alola,177,195,181,Hielo,Acero,No
+29,Nidoran F,86,89,146,Veneno,No,No
+30,Nidorina,117,120,172,Veneno,No,No
+31,Nidoqueen,180,173,207,Veneno,Tierra,No
+32,Nidoran M,105,76,130,Veneno,No,No
+33,Nidorino,137,111,156,Veneno,No,No
+34,Nidoking,204,156,191,Veneno,Tierra,No
+35,Clefairy,107,108,172,Hada,No,No
+36,Clefable,178,162,216,Hada,No,No
+37,Vulpix,96,109,116,Fuego,No,No
+37,Vulpix Alola,96,109,116,Hielo,No,No
+38,Ninetales,169,190,177,Fuego,No,No
+38,Ninetales Alola,170,193,177,Hielo,Hada,No
+39,Jigglypuff,80,41,251,Normal,Hada,No
+40,Wigglytuff,156,90,295,Normal,Hada,No
+41,Zubat,83,73,120,Veneno,Volador,No
+42,Golbat,161,150,181,Veneno,Volador,No
+43,Oddish,131,112,128,Planta,Veneno,No
+44,Gloom,153,136,155,Planta,Veneno,No
+45,Vileplume,202,167,181,Planta,Veneno,No
+46,Paras,121,99,111,Bicho,Planta,No
+47,Parasect,165,146,155,Bicho,Planta,No
+48,Venonat,100,100,155,Bicho,Veneno,No
+49,Venomoth,179,143,172,Bicho,Veneno,No
+50,Diglett,109,78,67,Tierra,No,No
+50,Diglett Alola,108,81,67,Tierra,Acero,No
+51,Dugtrio,167,136,111,Tierra,No,No
+51,Dugtrio Alola,201,142,111,Tierra,Acero,No
+52,Meowth,92,78,120,Normal,No,No
+52,Meowth Alola,99,78,120,Siniestro,No,No
+52,Meowth Galar,115,92,137,#N/A,#N/A,#N/A
+53,Persian,150,136,163,Normal,No,No
+53,Persian Alola,158,136,163,Siniestro,No,No
+54,Psyduck,122,95,137,Agua,No,No
+55,Golduck,191,162,190,Agua,No,No
+56,Mankey,148,82,120,Lucha,No,No
+57,Primeape,207,138,163,Lucha,No,No
+58,Growlithe,136,93,146,Fuego,No,No
+58,Growlithe Hisui,142,92,155,#N/A,#N/A,#N/A
+59,Arcanine,227,166,207,Fuego,No,No
+59,Arcanine Hisui,232,165,216,#N/A,#N/A,#N/A
+60,Poliwag,101,82,120,Agua,No,No
+61,Poliwhirl,130,123,163,Agua,No,No
+62,Poliwrath,182,184,207,Agua,Lucha,No
+63,Abra,195,82,93,Psiquico,No,No
+64,Kadabra,232,117,120,Psiquico,No,No
+65,Alakazam,271,167,146,Psiquico,No,No
+65,Mega Alakazam,367,207,146,Psiquico,No,No
+66,Machop,137,82,172,Lucha,No,No
+67,Machoke,177,125,190,Lucha,No,No
+68,Machamp,234,159,207,Lucha,No,No
+69,Bellsprout,139,61,137,Planta,Veneno,No
+70,Weepinbell,172,92,163,Planta,Veneno,No
+71,Victreebel,207,135,190,Planta,Veneno,No
+72,Tentacool,97,149,120,Agua,Veneno,No
+73,Tentacruel,166,209,190,Agua,Veneno,No
+74,Geodude,132,132,120,Roca,Tierra,No
+74,Geodude Alola,132,132,120,Roca,Electrico,No
+75,Graveler,164,164,146,Roca,Tierra,No
+75,Graveler Alola,164,164,146,Roca,Electrico,No
+76,Golem,211,198,190,Roca,Tierra,No
+76,Golem alola,211,198,190,Roca,Electrico,No
+77,Ponyta,170,127,137,Fuego,No,No
+77,Ponyta Galar,170,127,137,#N/A,#N/A,#N/A
+78,Rapidash,207,162,163,Fuego,No,No
+78,Rapidash Galar,207,162,163,#N/A,#N/A,#N/A
+79,Slowpoke,109,98,207,Agua,Psiquico,No
+79,Slowpoke,109,98,207,Agua,Psiquico,No
+80,Slowbro,177,180,216,Agua,Psiquico,No
+80,Mega Slowbro,224,259,216,Agua,Psiquico,No
+80,Slowbro Galar,182,156,216,#N/A,#N/A,#N/A
+81,Magnemite,165,121,93,Electrico,Acero,No
+82,Magneton,223,169,137,Electrico,Acero,No
+83,Farfetchd,124,115,141,Normal,Volador,No
+83,Farfetchd Galar,174,114,141,#N/A,#N/A,#N/A
+84,Doduo,158,83,111,Normal,Volador,No
+85,Dodrio,218,140,155,Normal,Volador,No
+86,Seel,85,121,163,Agua,No,No
+87,Dewgong,139,177,207,Agua,Hielo,No
+88,Grimer,135,90,190,Veneno,No,No
+88,Grimer Alola,135,90,190,Veneno,Siniestro,No
+89,Muk,190,172,233,Veneno,No,No
+89,Muk Alola,190,172,233,Veneno,Siniestro,No
+90,Shellder,116,134,102,Agua,No,No
+91,Cloyster,186,256,137,Agua,Hielo,No
+92,Gastly,186,67,102,Fantasma,Veneno,No
+93,Haunter,223,107,128,Fantasma,Veneno,No
+94,Gengar,261,149,155,Fantasma,Veneno,No
+94,Mega Gengar,349,199,155,Fantasma,Veneno,No
+95,Onix,85,232,111,Roca,Tierra,No
+96,Drowzee,89,136,155,Psiquico,No,No
+97,Hypno,144,193,198,Psiquico,No,No
+98,Krabby,181,124,102,Agua,No,No
+99,Kingler,240,181,146,Agua,No,No
+100,Voltorb,109,111,120,Electrico,No,No
+100,Voltorb Hisui,109,111,120,#N/A,#N/A,#N/A
+101,Electrode,173,173,155,Electrico,No,No
+101,Electrode Hisui,176,176,155,#N/A,#N/A,#N/A
+102,Exeggcute,107,125,155,Planta,Psiquico,No
+103,Exeggutor,233,149,216,Planta,Psiquico,No
+103,Exeggutor Alola,230,153,216,Planta,Dragon,No
+104,Cubone,90,144,137,Tierra,No,No
+105,Marowak,144,186,155,Tierra,No,No
+105,Marowak Alola,144,186,155,Fuego,Fantasma,No
+106,Hitmonlee,224,181,137,Lucha,No,No
+107,Hitmonchan,193,197,137,Lucha,No,No
+108,Lickitung,108,137,207,Normal,No,No
+109,Koffing,119,141,120,Veneno,No,No
+110,Weezing,174,197,163,Veneno,No,No
+110,Weezing Galar,174,197,163,#N/A,#N/A,#N/A
+111,Rhyhorn,140,127,190,Tierra,Roca,No
+112,Rhydon,222,171,233,Tierra,Roca,No
+113,Chansey,60,128,487,Normal,No,No
+114,Tangela,183,169,163,Planta,No,No
+115,Kangaskhan,181,165,233,Normal,No,No
+115,Mega Kangaskhan,246,210,233,Normal,No,No
+116,Horsea,129,103,102,Agua,No,No
+117,Seadra,187,156,146,Agua,No,No
+118,Goldeen,123,110,128,Agua,No,No
+119,Seaking,175,147,190,Agua,No,No
+120,Staryu,137,112,102,Agua,No,No
+121,Starmie,210,184,155,Agua,Psiquico,No
+122,Mr Mime,192,205,120,Psiquico,Hada,No
+122,Mr Mime Galar,183,169,137,#N/A,#N/A,#N/A
+123,Scyther,218,170,172,Bicho,Volador,No
+124,Jynx,223,151,163,Hielo,Psiquico,No
+125,Electabuzz,198,158,163,Electrico,No,No
+126,Magmar,206,154,163,Fuego,No,No
+127,Pinsir,238,182,163,Bicho,No,No
+127,Mega Pinsir,305,231,163,Bicho,Volador,No
+128,Tauros,198,183,181,Normal,No,No
+129,Magikarp,29,85,85,Agua,No,No
+130,Gyarados,237,186,216,Agua,Volador,No
+130,Mega Gyarados,292,247,216,Agua,Siniestro,No
+131,Lapras,165,174,277,Agua,Hielo,No
+132,Ditto,91,91,134,Normal,No,No
+133,Eevee,104,114,146,Normal,No,No
+134,Vaporeon,205,161,277,Agua,No,No
+135,Jolteon,232,182,163,Electrico,No,No
+136,Flareon,246,179,163,Fuego,No,No
+137,Porygon,153,136,163,Normal,No,No
+138,Omanyte,155,153,111,Roca,Agua,No
+139,Omastar,207,201,172,Roca,Agua,No
+140,Kabuto,148,140,102,Roca,Agua,No
+141,Kabutops,220,186,155,Roca,Agua,No
+142,Aerodactyl,221,159,190,Roca,Volador,No
+142,Mega Aerodactyl,292,210,190,Roca,Volador,No
+143,Snorlax,190,169,330,Normal,No,No
+144,Articuno,192,236,207,Hielo,Volador,Si
+144,Articuno Galar,250,197,207,#N/A,#N/A,#N/A
+145,Zapdos,253,185,207,Electrico,Volador,Si
+145,Zapdos Galar,252,189,207,#N/A,#N/A,#N/A
+146,Moltres,251,181,207,Fuego,Volador,Si
+146,Moltres Galar,202,231,207,#N/A,#N/A,#N/A
+147,Dratini,119,91,121,Dragon,No,No
+148,Dragonair,163,135,156,Dragon,No,No
+149,Dragonite,263,198,209,Dragon,Volador,No
+150,Mewtwo,300,182,214,Psiquico,No,Si
+150,Mewtwo Armadura,182,278,214,#N/A,#N/A,#N/A
+151,Mew,210,210,225,Psiquico,No,No
+152,Chikorita,92,122,128,Planta,No,No
+153,Bayleef,122,155,155,Planta,No,No
+154,Meganium,168,202,190,Planta,No,No
+155,Cyndaquil,116,93,118,Fuego,No,No
+156,Quilava,158,126,151,Fuego,No,No
+157,Typhlosion,223,173,186,Fuego,No,No
+157,Typhlosion Hisui,238,172,177,#N/A,#N/A,#N/A
+158,Totodile,117,109,137,Agua,No,No
+159,Croconaw,150,142,163,Agua,No,No
+160,Feraligatr,205,188,198,Agua,No,No
+161,Sentret,79,73,111,Normal,No,No
+162,Furret,148,125,198,Normal,No,No
+163,Hoothoot,67,88,155,Normal,Volador,No
+164,Noctowl,145,156,225,Normal,Volador,No
+165,Ledyba,72,118,120,Bicho,Volador,No
+166,Ledian,107,179,146,Bicho,Volador,No
+167,Spinarak,105,73,120,Bicho,Veneno,No
+168,Ariados,161,124,172,Bicho,Veneno,No
+169,Crobat,194,178,198,Veneno,Volador,No
+170,Chinchou,106,97,181,Agua,Electrico,No
+171,Lanturn,146,137,268,Agua,Electrico,No
+172,Pichu,77,53,85,Electrico,No,No
+173,Cleffa,75,79,137,Hada,No,No
+174,Igglybuff,69,32,207,Normal,Hada,No
+175,Togepi,67,116,111,Hada,No,No
+176,Togetic,139,181,146,Hada,Volador,No
+177,Natu,134,89,120,Psiquico,Volador,No
+178,Xatu,192,146,163,Psiquico,Volador,No
+179,Mareep,114,79,146,Electrico,No,No
+180,Flaaffy,145,109,172,Electrico,No,No
+181,Ampharos,211,169,207,Electrico,No,No
+181,Mega Ampharos,294,203,207,Electrico,Dragon,No
+182,Bellossom,169,186,181,Planta,No,No
+183,Marill,37,93,172,Agua,Hada,No
+184,Azumarill,112,152,225,Agua,Hada,No
+185,Sudowoodo,167,176,172,Roca,No,No
+186,Politoed,174,179,207,Agua,No,No
+187,Hoppip,67,94,111,Planta,Volador,No
+188,Skiploom,91,120,146,Planta,Volador,No
+189,Jumpluff,118,183,181,Planta,Volador,No
+190,Aipom,136,112,146,Normal,No,No
+191,Sunkern,55,55,102,Planta,No,No
+192,Sunflora,185,135,181,Planta,No,No
+193,Yanma,154,94,163,Bicho,Volador,No
+194,Wooper,75,66,146,Agua,Tierra,No
+194,Wooper Paldea,75,66,146,#N/A,#N/A,#N/A
+195,Quagsire,152,143,216,Agua,Tierra,No
+196,Espeon,261,175,163,Psiquico,No,No
+197,Umbreon,126,240,216,Siniestro,No,No
+198,Murkrow,175,87,155,Siniestro,Volador,No
+199,Slowking,177,180,216,Agua,Psiquico,No
+199,Slowking Galar,190,180,216,#N/A,#N/A,#N/A
+200,Misdreavus,167,154,155,Fantasma,No,No
+201,Unown,136,91,134,Psiquico,No,No
+202,Wobbuffet,60,106,382,Psiquico,No,No
+203,Girafarig,182,133,172,Normal,Psiquico,No
+204,Pineco,108,122,137,Bicho,No,No
+205,Forretress,161,205,181,Bicho,Acero,No
+206,Dunsparce,131,128,225,Normal,No,No
+207,Gligar,143,184,163,Tierra,Volador,No
+208,Steelix,148,272,181,Acero,Tierra,No
+208,Mega Steelix,212,327,181,Acero,Tierra,No
+209,Snubbull,137,85,155,Hada,No,No
+210,Granbull,212,131,207,Hada,No,No
+211,Qwilfish,184,138,163,Agua,Veneno,No
+211,Qwilfish Hisui,184,151,163,#N/A,#N/A,#N/A
+212,Scizor,236,181,172,Bicho,Acero,No
+212,Mega Scizor,279,250,172,Bicho,Acero,No
+213,Shuckle,17,396,85,Bicho,Roca,No
+214,Heracross,234,179,190,Bicho,Lucha,No
+214,Mega Heracross,334,223,190,Bicho,Lucha,No
+215,Sneasel,189,146,146,Siniestro,Hielo,No
+215,Sneasel Hisui,189,146,146,#N/A,#N/A,#N/A
+216,Teddiursa,142,93,155,Normal,No,No
+217,Ursaring,236,144,207,Normal,No,No
+218,Slugma,118,71,120,Fuego,No,No
+219,Magcargo,139,191,137,Fuego,Roca,No
+220,Swinub,90,69,137,Hielo,Tierra,No
+221,Piloswine,181,138,225,Hielo,Tierra,No
+222,Corsola,118,156,146,Agua,Roca,No
+223,Remoraid,127,69,111,Agua,No,No
+224,Octillery,197,141,181,Agua,No,No
+225,Delibird,128,90,128,Hielo,Volador,No
+226,Mantine,148,226,163,Agua,Volador,No
+227,Skarmory,148,226,163,Acero,Volador,No
+228,Houndour,152,83,128,Siniestro,Fuego,No
+229,Houndoom,224,144,181,Siniestro,Fuego,No
+229,Mega Houndoom,289,194,181,Siniestro,Fuego,No
+230,Kingdra,194,194,181,Agua,Dragon,No
+231,Phanpy,107,98,207,Tierra,No,No
+232,Donphan,214,185,207,Tierra,No,No
+233,Porygon2,198,180,198,Normal,No,No
+234,Stantler,192,131,177,Normal,No,No
+235,Smeargle,40,83,146,Normal,No,No
+236,Tyrogue,64,64,111,Lucha,No,No
+237,Hitmontop,173,207,137,Lucha,No,No
+238,Smoochum,153,91,128,Hielo,Psiquico,No
+239,Elekid,135,101,128,Electrico,No,No
+240,Magby,151,99,128,Fuego,No,No
+241,Miltank,157,193,216,Normal,No,No
+242,Blissey,129,169,496,Normal,No,No
+243,Raikou,241,195,207,Electrico,No,Si
+244,Entei,235,171,251,Fuego,No,Si
+245,Suicune,180,235,225,Agua,No,Si
+246,Larvitar,115,93,137,Roca,Tierra,No
+247,Pupitar,155,133,172,Roca,Tierra,No
+248,Tyranitar,251,207,225,Roca,Siniestro,No
+248,Mega Tyranitar,309,276,225,Roca,Siniestro,No
+249,Lugia,193,310,235,Psiquico,Volador,Si
+250,Ho Oh,239,244,214,Fuego,Volador,Si
+251,Celebi,210,210,225,Psiquico,Planta,No
+252,Treecko,124,94,120,Planta,No,No
+253,Grovyle,172,120,137,Planta,No,No
+254,Sceptile,223,169,172,Planta,No,No
+254,Mega Sceptile,320,186,172,Planta,Dragon,No
+255,Torchic,130,87,128,Fuego,No,No
+256,Combusken,163,115,155,Fuego,Lucha,No
+257,Blaziken,240,141,190,Fuego,Lucha,No
+257,Mega Blaziken,329,168,190,Fuego,Lucha,No
+258,Mudkip,126,93,137,Agua,No,No
+259,Marshtomp,156,133,172,Agua,Tierra,No
+260,Swampert,208,175,225,Agua,Tierra,No
+260,Mega Swampert,283,218,225,Agua,Tierra,No
+261,Poochyena,96,61,111,Siniestro,No,No
+262,Mightyena,171,132,172,Siniestro,No,No
+263,Zigzagoon,58,80,116,Normal,No,No
+263,Zigzagoon Galar,58,80,116,#N/A,#N/A,#N/A
+264,Linoone,142,128,186,Normal,No,No
+264,Linoone Galar,142,128,186,#N/A,#N/A,#N/A
+265,Wurmple,75,59,128,Bicho,No,No
+266,Silcoon,60,77,137,Bicho,No,No
+267,Beautifly,189,98,155,Bicho,Volador,No
+268,Cascoon,60,77,137,Bicho,No,No
+269,Dustox,98,162,155,Bicho,Veneno,No
+270,Lotad,71,77,120,Agua,Planta,No
+271,Lombre,112,119,155,Agua,Planta,No
+272,Ludicolo,173,176,190,Agua,Planta,No
+273,Seedot,71,77,120,Planta,No,No
+274,Nuzleaf,134,78,172,Planta,Siniestro,No
+275,Shiftry,200,121,207,Planta,Siniestro,No
+276,Taillow,106,61,120,Normal,Volador,No
+277,Swellow,185,124,155,Normal,Volador,No
+278,Wingull,106,61,120,Agua,Volador,No
+279,Pelipper,175,174,155,Agua,Volador,No
+280,Ralts,79,59,99,Psiquico,Hada,No
+281,Kirlia,117,90,116,Psiquico,Hada,No
+282,Gardevoir,237,195,169,Psiquico,Hada,No
+282,Mega Gardevoir,326,229,169,Psiquico,Hada,No
+283,Surskit,93,87,120,Bicho,Agua,No
+284,Masquerain,192,150,172,Bicho,Volador,No
+285,Shroomish,74,110,155,Planta,No,No
+286,Breloom,241,144,155,Planta,Lucha,No
+287,Slakoth,104,92,155,Normal,No,No
+288,Vigoroth,159,145,190,Normal,No,No
+289,Slaking,290,166,284,Normal,No,No
+290,Nincada,80,126,104,Bicho,Tierra,No
+291,Ninjask,199,112,156,Bicho,Volador,No
+292,Shedinja,153,73,1,Bicho,Fantasma,No
+293,Whismur,92,42,162,Normal,No,No
+294,Loudred,134,81,197,Normal,No,No
+295,Exploud,179,137,232,Normal,No,No
+296,Makuhita,99,54,176,Lucha,No,No
+297,Hariyama,209,114,302,Lucha,No,No
+298,Azurill,36,71,137,Normal,Hada,No
+299,Nosepass,82,215,102,Roca,No,No
+300,Skitty,84,79,137,Normal,No,No
+301,Delcatty,132,127,172,Normal,No,No
+302,Sableye,141,136,137,Siniestro,Fantasma,No
+302,Mega Sableye,151,216,137,Siniestro,Fantasma,No
+303,Mawile,155,141,137,Acero,Hada,No
+304,Aron,121,141,137,Acero,Roca,No
+305,Lairon,158,198,155,Acero,Roca,No
+306,Aggron,198,257,172,Acero,Roca,No
+306,Mega Aggron,247,331,172,Acero,No,No
+307,Meditite,78,107,102,Lucha,Psiquico,No
+308,Medicham,121,152,155,Lucha,Psiquico,No
+308,Mega Medicham,205,179,155,Lucha,Psiquico,No
+309,Electrike,123,78,120,Electrico,No,No
+310,Manectric,215,127,172,Electrico,No,No
+310,Mega Manectric,286,179,172,Electrico,No,No
+311,Plusle,167,129,155,Electrico,No,No
+312,Minun,147,150,155,Electrico,No,No
+313,Volbeat,143,166,163,Bicho,No,No
+314,Illumise,143,166,163,Bicho,No,No
+315,Roselia,186,131,137,Planta,Veneno,No
+316,Gulpin,80,99,172,Veneno,No,No
+317,Swalot,140,159,225,Veneno,No,No
+318,Carvanha,171,39,128,Agua,Siniestro,No
+319,Sharpedo,243,83,172,Agua,Siniestro,No
+320,Wailmer,136,68,277,Agua,No,No
+321,Wailord,175,87,347,Agua,No,No
+322,Numel,119,79,155,Fuego,Tierra,No
+323,Camerupt,194,136,172,Fuego,Tierra,No
+324,Torkoal,151,203,172,Fuego,No,No
+325,Spoink,125,122,155,Psiquico,No,No
+326,Grumpig,171,188,190,Psiquico,No,No
+327,Spinda,116,116,155,Normal,No,No
+328,Trapinch,162,78,128,Tierra,No,No
+329,Vibrava,134,99,137,Tierra,Dragon,No
+330,Flygon,205,168,190,Tierra,Dragon,No
+331,Cacnea,156,74,137,Planta,No,No
+332,Cacturne,221,115,172,Planta,Siniestro,No
+333,Swablu,76,132,128,Normal,Volador,No
+334,Altaria,141,201,181,Dragon,Volador,No
+334,Mega Altaria,222,218,181,Dragon,Hada,No
+335,Zangoose,222,124,177,Normal,No,No
+336,Seviper,196,118,177,Veneno,No,No
+337,Lunatone,178,153,207,Roca,Psiquico,No
+338,Solrock,178,153,207,Roca,Psiquico,No
+339,Barboach,93,82,137,Agua,Tierra,No
+340,Whiscash,151,141,242,Agua,Tierra,No
+341,Corphish,141,99,125,Agua,No,No
+342,Crawdaunt,224,142,160,Agua,Siniestro,No
+343,Baltoy,77,124,120,Tierra,Psiquico,No
+344,Claydol,140,229,155,Tierra,Psiquico,No
+345,Lileep,105,150,165,Roca,Planta,No
+346,Cradily,152,194,200,Roca,Planta,No
+347,Anorith,176,100,128,Roca,Bicho,No
+348,Armaldo,222,174,181,Roca,Bicho,No
+349,Feebas,29,85,85,Agua,No,No
+350,Milotic,192,219,216,Agua,No,No
+351,Castform Normal,139,139,172,Normal,No,No
+351,Castform Lluvia,139,139,172,Agua,No,No
+351,Castform Nieve,139,139,172,Hielo,No,No
+351,Castform Soleado,139,139,172,#N/A,#N/A,#N/A
+352,Kecleon,161,189,155,Normal,No,No
+353,Shuppet,138,65,127,Fantasma,No,No
+354,Banette,218,126,162,Fantasma,No,No
+354,Mega Banette,312,160,162,Fantasma,No,No
+355,Duskull,70,162,85,Fantasma,No,No
+356,Dusclops,124,234,120,Fantasma,No,No
+357,Tropius,136,163,223,Planta,Volador,No
+358,Chimecho,175,170,181,Psiquico,No,No
+359,Absol,246,120,163,Siniestro,No,No
+359,Mega Absol,314,130,163,Siniestro,No,No
+360,Wynaut,41,86,216,Psiquico,No,No
+361,Snorunt,95,95,137,Hielo,No,No
+362,Glalie,162,162,190,Hielo,No,No
+362,Mega Glalie,252,168,190,Hielo,No,No
+363,Spheal,95,90,172,Hielo,Agua,No
+364,Sealeo,137,132,207,Hielo,Agua,No
+365,Walrein,182,176,242,Hielo,Agua,No
+366,Clamperl,133,135,111,Agua,No,No
+367,Huntail,197,179,146,Agua,No,No
+368,Gorebyss,211,179,146,Agua,No,No
+369,Relicanth,162,203,225,Agua,Roca,No
+370,Luvdisc,81,128,125,Agua,No,No
+371,Bagon,134,93,128,Dragon,No,No
+372,Shelgon,172,155,163,Dragon,No,No
+373,Salamence,277,168,216,Dragon,Volador,No
+373,Mega Salamence,310,251,216,Dragon,Volador,No
+374,Beldum,96,132,120,Acero,Psiquico,No
+375,Metang,138,176,155,Acero,Psiquico,No
+376,Metagross,257,228,190,Acero,Psiquico,No
+377,Regirock,179,309,190,Roca,No,Si
+378,Regice,179,309,190,Hielo,No,Si
+379,Registeel,143,285,190,Acero,No,Si
+380,Latias,228,246,190,Dragon,Psiquico,Si
+380,Mega Latias,289,297,190,Dragon,Psiquico,Si
+381,Latios,268,212,190,Dragon,Psiquico,Si
+381,Mega Latios,335,241,190,Dragon,Psiquico,Si
+382,Kyogre,270,228,205,Agua,No,Si
+382,Kyogre Primigenio,353,268,218,#N/A,#N/A,#N/A
+383,Groudon,270,228,205,Tierra,No,Si
+383,Groudon Primigenio,353,268,218,#N/A,#N/A,#N/A
+384,Rayquaza,284,170,213,Dragon,Volador,Si
+384,Mega Rayquaza,377,210,227,Dragon,Volador,Si
+385,Jirachi,210,210,225,Acero,Psiquico,Si
+386,Deoxys Normal,345,115,137,Psiquico,No,Si
+386,Deoxys Ataque,414,46,137,Psiquico,No,Si
+386,Deoxys Defensa,144,330,137,Psiquico,No,Si
+386,Deoxys Velocidad,230,218,137,Psiquico,No,Si
+387,Turtwig,119,110,146,Planta,No,No
+388,Grotle,157,143,181,Planta,No,No
+389,Torterra,202,188,216,Planta,Tierra,No
+390,Chimchar,113,86,127,Fuego,No,No
+391,Monferno,158,105,162,Fuego,Lucha,No
+392,Infernape,222,151,183,Fuego,Lucha,No
+393,Piplup,112,102,142,Agua,No,No
+394,Prinplup,150,139,162,Agua,No,No
+395,Empoleon,210,186,197,Agua,Acero,No
+396,Starly,101,58,120,Normal,Volador,No
+397,Staravia,142,94,146,Normal,Volador,No
+398,Staraptor,234,140,198,Normal,Volador,No
+399,Bidoof,80,73,153,Normal,No,No
+400,Bibarel,162,119,188,Normal,Agua,No
+401,Kricketot,45,74,114,Bicho,No,No
+402,Kricketune,160,100,184,Bicho,No,No
+403,Shinx,117,64,128,Electrico,No,No
+404,Luxio,159,95,155,Electrico,No,No
+405,Luxray,232,156,190,Electrico,No,No
+406,Budew,91,109,120,Planta,Veneno,No
+407,Roserade,243,185,155,Planta,Veneno,No
+408,Cranidos,218,71,167,Roca,No,No
+409,Rampardos,295,109,219,Roca,No,No
+410,Shieldon,76,195,102,Roca,Acero,No
+411,Bastiodon,94,286,155,Roca,Acero,No
+412,Burmy,53,83,120,#N/A,#N/A,#N/A
+413,Wormadam Planta,141,180,155,Bicho,Planta,No
+413,Wormadam Arena,141,180,155,Bicho,Tierra,No
+413,Wormadam Basura,127,175,155,Bicho,Acero,No
+414,Mothim,185,98,172,Bicho,Volador,No
+415,Combee,59,83,102,Bicho,Volador,No
+416,Vespiquen,149,190,172,Bicho,Volador,No
+417,Pachirisu,94,172,155,Electrico,No,No
+418,Buizel,132,67,146,Agua,No,No
+419,Floatzel,221,114,198,Agua,No,No
+420,Cherubi,108,92,128,Planta,No,No
+421,Cherrim Overcast,170,153,172,#N/A,#N/A,#N/A
+421,Cherrim Solar,170,153,172,#N/A,#N/A,#N/A
+422,Shellos,103,105,183,Agua,No,No
+423,Gastrodon,169,143,244,Agua,Tierra,No
+424,Ambipom,205,143,181,Normal,No,No
+425,Drifloon,117,80,207,Fantasma,Volador,No
+426,Drifblim,180,102,312,Fantasma,Volador,No
+427,Buneary,130,105,146,Normal,No,No
+428,Lopunny,156,194,163,Normal,No,No
+428,Mega Lopunny,282,214,163,Normal,Lucha,No
+429,Mismagius,211,187,155,Fantasma,No,No
+430,Honchkrow,243,103,225,Siniestro,Volador,No
+431,Glameow,109,82,135,Normal,No,No
+432,Purugly,172,133,174,Normal,No,No
+433,Chingling,114,94,128,Psiquico,No,No
+434,Stunky,121,90,160,Veneno,Siniestro,No
+435,Skuntank,184,132,230,Veneno,Siniestro,No
+436,Bronzor,43,154,149,Acero,Psiquico,No
+437,Bronzong,161,213,167,Acero,Psiquico,No
+438,Bonsly,124,133,137,Roca,No,No
+439,Mime Jr,125,142,85,Psiquico,Hada,No
+440,Happiny,25,77,225,Normal,No,No
+441,Chatot,183,91,183,Normal,Volador,No
+442,Spiritomb,169,199,137,Fantasma,Siniestro,No
+443,Gible,124,84,151,Dragon,Tierra,No
+444,Gabite,172,125,169,Dragon,Tierra,No
+445,Garchomp,261,193,239,Dragon,Tierra,No
+445,Mega Garchomp,339,222,239,Dragon,Tierra,No
+446,Munchlax,137,117,286,Normal,No,No
+447,Riolu,127,78,120,Lucha,No,No
+448,Lucario,236,144,172,Lucha,Acero,No
+449,Hippopotas,124,118,169,Tierra,No,No
+450,Hippowdon,201,191,239,Tierra,No,No
+451,Skorupi,93,151,120,Veneno,Bicho,No
+452,Drapion,180,202,172,Veneno,Siniestro,No
+453,Croagunk,116,76,134,Veneno,Lucha,No
+454,Toxicroak,211,133,195,Veneno,Lucha,No
+455,Carnivine,187,136,179,Planta,No,No
+456,Finneon,96,116,135,Agua,No,No
+457,Lumineon,142,170,170,Agua,No,No
+458,Mantyke,105,179,128,Agua,Volador,No
+459,Snover,115,105,155,Planta,Hielo,No
+460,Abomasnow,178,158,207,Planta,Hielo,No
+460,Mega Abomasnow,240,191,207,Planta,Hielo,No
+461,Weavile,243,171,172,Siniestro,Hielo,No
+462,Magnezone,238,205,172,Electrico,Acero,No
+463,Lickilicky,161,181,242,Normal,No,No
+464,Rhyperior,241,190,251,Tierra,Roca,No
+465,Tangrowth,207,184,225,Planta,No,No
+466,Electivire,249,163,181,Electrico,No,No
+467,Magmortar,247,172,181,Fuego,No,No
+468,Togekiss,225,217,198,Hada,Volador,No
+469,Yanmega,231,156,200,Bicho,Volador,No
+470,Leafeon,216,219,163,Planta,No,No
+471,Glaceon,238,205,163,Hielo,No,No
+472,Gliscor,185,222,181,Tierra,Volador,No
+473,Mamoswine,247,146,242,Hielo,Tierra,No
+474,Porygon Z,264,150,198,Normal,No,No
+475,Gallade,237,195,169,Psiquico,Lucha,No
+476,Probopass,135,275,155,Roca,Acero,No
+477,Dusknoir,180,254,128,Fantasma,No,No
+478,Froslass,171,150,172,Hielo,Fantasma,No
+479,Rotom normal,185,159,137,Electrico,Fantasma,No
+479,Rotom Ventilador,204,219,137,Electrico,Volador,No
+479,Rotom Nevera,204,219,137,Electrico,Hielo,No
+479,Rotom Horno,204,219,137,Electrico,Fuego,No
+479,Rotom Cortadora,204,219,137,Electrico,Planta,No
+479,Rotom Lavadora,204,219,137,Electrico,Agua,No
+480,Uxie,156,270,181,Psiquico,No,Si
+481,Mesprit,212,212,190,Psiquico,No,Si
+482,Azelf,270,151,181,Psiquico,No,Si
+483,Dialga,275,211,205,Acero,Dragon,Si
+483,Dialga Origen,270,225,205,Acero,Dragon,Si
+484,Palkia,280,215,189,Agua,Dragon,Si
+484,Palkia Origen,286,223,189,Agua,Dragon,Si
+485,Heatran,251,213,209,Fuego,Acero,Si
+486,Regigigas,287,210,221,Normal,No,Si
+487,Giratina Alterado,187,225,284,Fantasma,Dragon,Si
+487,Giratina Origen,225,187,284,Fantasma,Dragon,Si
+488,Cresselia,152,258,260,Psiquico,No,Si
+489,Phione,162,162,190,Agua,No,No
+490,Manaphy,210,210,225,Agua,No,No
+491,Darkrai,285,198,172,Siniestro,No,Si
+492,Shaymin Tierra,210,210,225,Planta,No,Si
+492,Shaymin Cielo,261,166,225,Planta,Volador,Si
+493,Arceus,238,238,237,Normal,No,Si
+494,Victini,210,210,225,Psiquico,Fuego,Si
+495,Snivy,88,107,128,Planta,No,No
+496,Servine,122,152,155,Planta,No,No
+497,Serperior,161,204,181,Planta,No,No
+498,Tepig,115,85,163,Fuego,No,No
+499,Pignite,173,106,207,Fuego,Lucha,No
+500,Emboar,235,127,242,Fuego,Lucha,No
+501,Oshawott,117,85,146,Agua,No,No
+502,Dewott,159,116,181,Agua,No,No
+503,Samurott,212,157,216,Agua,No,No
+503,Samurott Hisui,218,152,207,#N/A,#N/A,#N/A
+504,Patrat,98,73,128,Normal,No,No
+505,Watchog,165,139,155,Normal,No,No
+506,Lillipup,107,86,128,Normal,No,No
+507,Herdier,145,126,163,Normal,No,No
+508,Stoutland,206,182,198,Normal,No,No
+509,Purrloin,98,73,121,Siniestro,No,No
+510,Liepard,187,106,162,Siniestro,No,No
+511,Pansage,104,94,137,Planta,No,No
+512,Simisage,206,133,181,Planta,No,No
+513,Pansear,104,94,137,Fuego,No,No
+514,Simisear,206,133,181,Fuego,No,No
+515,Panpour,104,94,137,Agua,No,No
+516,Simipour,206,133,181,Agua,No,No
+517,Munna,111,92,183,Psiquico,No,No
+518,Musharna,183,166,253,Psiquico,No,No
+519,Pidove,98,80,137,Normal,Volador,No
+520,Tranquill,144,107,158,Normal,Volador,No
+521,Unfezant,226,146,190,Normal,Volador,No
+522,Blitzle,118,64,128,Electrico,No,No
+523,Zebstrika,211,136,181,Electrico,No,No
+524,Roggenrola,121,110,146,Roca,No,No
+525,Boldore,174,143,172,Roca,No,No
+526,Gigalith,226,201,198,Roca,No,No
+527,Woobat,107,85,163,Psiquico,Volador,No
+528,Swoobat,161,119,167,Psiquico,Volador,No
+529,Drilbur,154,85,155,Tierra,No,No
+530,Excadrill,255,129,242,Tierra,Acero,No
+531,Audino,114,163,230,Normal,No,No
+532,Timburr,134,87,181,Lucha,No,No
+533,Gurdurr,180,134,198,Lucha,No,No
+534,Conkeldurr,243,158,233,Lucha,No,No
+535,Tympole,98,78,137,Agua,No,No
+536,Palpitoad,128,109,181,Agua,Tierra,No
+537,Seismitoad,188,150,233,Agua,Tierra,No
+538,Throh,172,160,260,Lucha,No,No
+539,Sawk,231,153,181,Lucha,No,No
+540,Sewaddle,96,124,128,Bicho,Planta,No
+541,Swadloon,115,162,146,Bicho,Planta,No
+542,Leavanny,205,165,181,Bicho,Planta,No
+543,Venipede,83,99,102,Bicho,Veneno,No
+544,Whirlipede,100,173,120,Bicho,Veneno,No
+545,Scolipede,203,175,155,Bicho,Veneno,No
+546,Cottonee,71,111,120,Planta,Hada,No
+547,Whimsicott,164,176,155,Planta,Hada,No
+548,Petilil,119,91,128,Planta,No,No
+549,Lilligant,214,155,172,Planta,No,No
+550,Basculin Rojo,189,129,172,Agua,No,No
+550,Basculin Azul,189,129,172,Agua,No,No
+550,Basculin Blanco,189,129,172,#N/A,#N/A,#N/A
+551,Sandile,132,69,137,Tierra,Siniestro,No
+552,Krokorok,155,90,155,Tierra,Siniestro,No
+553,Krookodile,229,158,216,Tierra,Siniestro,No
+554,Darumaka,153,86,172,Fuego,No,No
+554,Darumaka Galar,153,86,172,#N/A,#N/A,#N/A
+555,Darmanitan Estandar,263,114,233,Fuego,No,No
+555,Darmanitan Zen,243,202,233,Fuego,Psiquico,No
+555,Darmanitan Galar Estandar,263,114,233,#N/A,#N/A,#N/A
+555,Darmanitan Galar Zen,323,123,233,#N/A,#N/A,#N/A
+556,Maractus,201,130,181,Planta,No,No
+557,Dwebble,118,128,137,Bicho,Roca,No
+558,Crustle,188,200,172,Bicho,Roca,No
+559,Scraggy,132,132,137,Siniestro,Lucha,No
+560,Scrafty,163,222,163,Siniestro,Lucha,No
+561,Sigilyph,204,167,176,Psiquico,Volador,No
+562,Yamask,95,141,116,Fantasma,No,No
+562,Yamask Galar,95,141,116,#N/A,#N/A,#N/A
+563,Cofagrigus,163,237,151,Fantasma,No,No
+564,Tirtouga,134,146,144,Agua,Roca,No
+565,Carracosta,192,197,179,Agua,Roca,No
+566,Archen,213,89,146,Roca,Volador,No
+567,Archeops,292,139,181,Roca,Volador,No
+568,Trubbish,96,122,137,Veneno,No,No
+569,Garbodor,181,164,190,Veneno,No,No
+570,Zorua,153,78,120,Siniestro,No,No
+571,Zoroark,250,127,155,Siniestro,No,No
+572,Minccino,98,80,146,Normal,No,No
+573,Cinccino,198,130,181,Normal,No,No
+574,Gothita,98,112,128,Psiquico,No,No
+575,Gothorita,137,153,155,Psiquico,No,No
+576,Gothitelle,176,205,172,Psiquico,No,No
+577,Solosis,170,83,128,Psiquico,No,No
+578,Duosion,208,103,163,Psiquico,No,No
+579,Reuniclus,214,148,242,Psiquico,No,No
+580,Ducklett,84,96,158,Agua,Volador,No
+581,Swanna,182,132,181,Agua,Volador,No
+582,Vanillite,118,106,113,Hielo,No,No
+583,Vanillish,151,138,139,Hielo,No,No
+584,Vanilluxe,218,184,174,Hielo,No,No
+585,Deerling,115,100,155,Normal,Planta,No
+586,Sawsbuck,198,146,190,Normal,Planta,No
+587,Emolga,158,127,146,Electrico,Volador,No
+588,Karrablast,137,87,137,Bicho,No,No
+589,Escavalier,223,187,172,Bicho,Acero,No
+590,Foongus,97,91,170,Planta,Veneno,No
+591,Amoonguss,155,139,249,Planta,Veneno,No
+592,Frillish,115,134,146,Agua,Fantasma,No
+593,Jellicent,159,178,225,Agua,Fantasma,No
+594,Alomomola,138,131,338,Agua,No,No
+595,Joltik,110,98,137,Bicho,Electrico,No
+596,Galvantula,201,128,172,Bicho,Electrico,No
+597,Ferroseed,82,155,127,Planta,Acero,No
+598,Ferrothorn,158,223,179,Planta,Acero,No
+599,Klink,98,121,120,Acero,No,No
+600,Klang,150,174,155,Acero,No,No
+601,Klinklang,199,214,155,Acero,No,No
+602,Tynamo,105,78,111,Electrico,No,No
+603,Eelektrik,156,130,163,Electrico,No,No
+604,Eelektross,217,152,198,Electrico,No,No
+605,Elgyem,148,100,146,Psiquico,No,No
+606,Beheeyem,221,163,181,Psiquico,No,No
+607,Litwick,108,98,137,Fantasma,Fuego,No
+608,Lampent,169,115,155,Fantasma,Fuego,No
+609,Chandelure,271,182,155,Fantasma,Fuego,No
+610,Axew,154,101,130,Dragon,No,No
+611,Fraxure,212,123,165,Dragon,No,No
+612,Haxorus,284,172,183,Dragon,No,No
+613,Cubchoo,128,74,146,Hielo,No,No
+614,Beartic,233,152,216,Hielo,No,No
+615,Cryogonal,190,218,190,Hielo,No,No
+616,Shelmet,72,140,137,Bicho,No,No
+617,Accelgor,220,120,190,Bicho,No,No
+618,Stunfisk,144,171,240,Tierra,Electrico,No
+618,Stunfisk Galar,144,171,240,#N/A,#N/A,#N/A
+619,Mienfoo,160,98,128,Lucha,No,No
+620,Mienshao,258,127,163,Lucha,No,No
+621,Druddigon,213,170,184,Dragon,No,No
+622,Golett,127,92,153,Tierra,Fantasma,No
+623,Golurk,222,154,205,Tierra,Fantasma,No
+624,Pawniard,154,114,128,Siniestro,Acero,No
+625,Bisharp,232,176,163,Siniestro,Acero,No
+626,Bouffalant,195,182,216,Normal,No,No
+627,Rufflet,150,97,172,Normal,Volador,No
+628,Braviary,232,152,225,Normal,Volador,No
+628,Braviary Hisui,213,137,242,#N/A,#N/A,#N/A
+629,Vullaby,105,139,172,Siniestro,Volador,No
+630,Mandibuzz,129,205,242,Siniestro,Volador,No
+631,Heatmor,204,129,198,Fuego,No,No
+632,Durant,217,188,151,Bicho,Acero,No
+633,Deino,116,93,141,Siniestro,Dragon,No
+634,Zweilous,159,135,176,Siniestro,Dragon,No
+635,Hydreigon,256,188,211,Siniestro,Dragon,No
+636,Larvesta,156,107,146,Bicho,Fuego,No
+637,Volcarona,264,189,198,Bicho,Fuego,No
+638,Cobalion,192,229,209,Acero,Lucha,Si
+639,Terrakion,260,192,209,Roca,Lucha,Si
+640,Virizion,192,229,209,Planta,Lucha,Si
+641,Tornadus Avatar,266,164,188,Volador,No,Si
+641,Tornadus Totem,238,189,188,Volador,No,Si
+642,Thundurus Avatar,266,164,188,Electrico,Volador,Si
+642,Thundurus Totem,295,161,188,Electrico,Volador,Si
+643,Reshiram,275,211,205,Dragon,Fuego,Si
+644,Zekrom,275,211,205,Dragon,Electrico,Si
+645,Landorus Avatar,261,182,205,Tierra,Volador,Si
+645,Landorus Totem,289,179,205,Tierra,Volador,Si
+646,Kyurem Normal,246,170,245,Dragon,Hielo,Si
+646,Kyurem Negro,310,183,245,Dragon,Hielo,Si
+646,Kyurem Blanco,310,183,245,Dragon,Hielo,Si
+647,Keldeo habitual,260,192,209,Agua,Lucha,No
+647,Keldeo brio,260,192,209,Agua,Lucha,No
+648,Meloetta Lirica,250,225,225,Normal,Psiquico,No
+648,Meloetta Danza,269,188,225,Normal,Lucha,No
+649,Genesect,252,199,174,Bicho,Acero,No
+650,Chespin,110,106,148,Planta,No,No
+651,Quilladin,146,156,156,Planta,No,No
+652,Chesnaught,201,204,204,Planta,Lucha,No
+653,Fennekin,116,102,120,Fuego,No,No
+654,Braixen,171,130,153,Fuego,No,No
+655,Delphox,230,189,181,Fuego,Psiquico,No
+656,Froakie,122,84,121,Agua,No,No
+657,Frogadier,168,114,144,Agua,No,No
+658,Greninja,223,152,176,Agua,Siniestro,No
+659,Bunnelby,68,72,116,Normal,No,No
+660,Diggersby,112,155,198,Normal,Tierra,No
+661,Fletchling,95,80,128,Normal,Volador,No
+662,Fletchinder,145,110,158,Fuego,Volador,No
+663,Talonflame,176,155,186,Fuego,Volador,No
+664,Scatterbug,63,63,116,Bicho,No,No
+665,Spewpa,48,89,128,Bicho,No,No
+666,Vivillon,176,103,190,Bicho,Volador,No
+667,Litleo,139,112,158,Fuego,Normal,No
+668,Pyroar,221,149,200,Fuego,Normal,No
+669,Flabebe,108,120,127,Hada,No,No
+670,Floette,136,151,144,Hada,No,No
+671,Florges,212,244,186,Hada,No,No
+672,Skiddo,123,102,165,Planta,No,No
+673,Gogoat,196,146,265,Planta,No,No
+674,Pancham,145,107,167,Lucha,No,No
+675,Pangoro,226,146,216,Lucha,Siniestro,No
+676,Furfrou,164,167,181,Normal,No,No
+677,Espurr,120,114,158,Psiquico,No,No
+678,Meowstic,166,167,179,Psiquico,No,No
+679,Honedge,135,139,128,Acero,Fantasma,No
+680,Doublade,188,206,153,Acero,Fantasma,No
+681,Aegislash Escudo,97,291,155,Acero,Fantasma,No
+681,Aegislash Espada,291,97,155,Acero,Fantasma,No
+682,Spritzee,110,113,186,Hada,No,No
+683,Aromatisse,173,150,226,Hada,No,No
+684,Swirlix,109,119,158,Hada,No,No
+685,Slurpuff,168,163,193,Hada,No,No
+686,Inkay,98,95,142,Siniestro,Psiquico,No
+687,Malamar,177,165,200,Siniestro,Psiquico,No
+688,Binacle,96,120,123,Roca,Agua,No
+689,Barbaracle,194,205,176,Roca,Agua,No
+690,Skrelp,109,109,137,Veneno,Agua,No
+691,Dragalge,177,207,163,Veneno,Dragon,No
+692,Clauncher,108,117,137,Agua,No,No
+693,Clawitzer,221,171,174,Agua,No,No
+694,Helioptile,115,78,127,Electrico,Normal,No
+695,Heliolisk,219,168,158,Electrico,Normal,No
+696,Tyrunt,158,123,151,Roca,Dragon,No
+697,Tyrantrum,227,191,193,Roca,Dragon,No
+698,Amaura,124,109,184,Roca,Hielo,No
+699,Aurorus,186,163,265,Roca,Hielo,No
+700,Sylveon,203,205,216,Hada,No,No
+701,Hawlucha,195,153,186,Lucha,Volador,No
+702,Dedenne,164,134,167,Electrico,Hada,No
+703,Carbink,95,285,137,Roca,Hada,No
+704,Goomy,101,112,128,Dragon,No,No
+705,Sliggoo,159,176,169,Dragon,No,No
+706,Goodra,220,242,207,Dragon,No,No
+707,Klefki,160,179,149,Acero,Hada,No
+708,Phantump,125,103,125,Fantasma,Planta,No
+709,Trevenant,201,154,198,Fantasma,Planta,No
+710,Pumpkaboo Chico,122,124,127,Fantasma,Planta,No
+710,Pumpkaboo Normal,121,123,135,Fantasma,Planta,No
+710,Pumpkaboo Grande,120,122,144,Fantasma,Planta,No
+710,Pumpkaboo Super,118,120,153,Fantasma,Planta,No
+711,Gourgeist Chico,171,219,146,Fantasma,Planta,No
+711,Gourgeist Normal,175,213,163,Fantasma,Planta,No
+711,Gourgeist Grande,179,206,181,Fantasma,Planta,No
+711,Gourgeist Super,182,200,198,Fantasma,Planta,No
+712,Bergmite,117,120,146,Hielo,No,No
+713,Avalugg,196,240,216,Hielo,No,No
+713,Avalugg Hisui,214,238,216,#N/A,#N/A,#N/A
+714,Noibat,83,73,120,Volador,Dragon,No
+715,Noivern,205,175,198,Volador,Dragon,No
+716,Xerneas,250,185,246,Hada,No,Si
+717,Yveltal,250,185,246,Siniestro,Volador,Si
+718,Zygarde 50%,203,232,239,Dragon,Tierra,Si
+718,Zygarde 10%,205,173,144,Dragon,Tierra,Si
+718,Zygarde Completo,184,207,389,Dragon,Tierra,Si
+719,Diancie,190,285,137,Roca,Hada,Si
+719,Mega Diancie,342,235,137,Roca,Hada,Si
+720,Hoopa Confinado,261,187,173,Psiquico,Siniestro,Si
+720,Hoopa Desatado,311,191,173,Psiquico,Siniestro,Si
+721,Volcanion,252,216,190,Fuego,Agua,Si
+722,Rowlet,102,99,169,Planta,Volador,No
+723,Dartrix,142,139,186,Planta,Volador,No
+724,Decidueye,210,179,186,Planta,Fantasma,No
+724,Decidueye Hisui,213,174,204,#N/A,#N/A,#N/A
+725,Litten,128,79,128,Fuego,No,No
+726,Torracat,174,103,163,Fuego,No,No
+727,Incineroar,214,175,216,Fuego,Siniestro,No
+728,Popplio,120,103,137,Agua,No,No
+729,Brionne,168,145,155,Agua,No,No
+730,Primarina,232,195,190,Agua,Hada,No
+731,Pikipek,136,59,111,Normal,Volador,No
+732,Trumbeak,159,100,146,Normal,Volador,No
+733,Toucannon,222,146,190,Normal,Volador,No
+734,Yungoos,122,56,134,Normal,No,No
+735,Gumshoos,194,113,204,Normal,No,No
+736,Grubbin,115,85,132,Bicho,No,No
+737,Charjabug,145,161,149,Bicho,Electrico,No
+738,Vikavolt,254,158,184,Bicho,Electrico,No
+739,Crabrawler,150,104,132,Lucha,No,No
+740,Crabominable,231,138,219,Lucha,Hielo,No
+741,Oricorio,196,145,181,Fuego,Volador,No
+742,Cutiefly,110,81,120,Bicho,Hada,No
+743,Ribombee,198,146,155,Bicho,Hada,No
+744,Rockruff,117,78,128,Roca,No,No
+745,Lycanroc Mediodia,231,140,181,Roca,No,No
+745,Lycanroc Medianoche,218,152,198,Roca,No,No
+745,Lycanroc Anochecer,234,139,181,Roca,No,No
+746,Wishiwashi Solo,46,43,128,Agua,No,No
+746,Wishiwashi Banco,255,242,128,#N/A,#N/A,#N/A
+747,Mareanie,98,110,137,Veneno,Agua,No
+748,Toxapex,114,273,137,Veneno,Agua,No
+749,Mudbray,175,121,172,Tierra,No,No
+750,Mudsdale,215,174,225,Tierra,No,No
+751,Dewpider,72,117,116,Agua,Bicho,No
+752,Araquanid,126,219,169,Agua,Bicho,No
+753,Fomantis,100,64,120,Planta,No,No
+754,Lurantis,192,169,172,Planta,No,No
+755,Morelull,108,119,120,Planta,Hada,No
+756,Shiinotic,154,168,155,Planta,Hada,No
+757,Salandit,136,80,134,Veneno,Fuego,No
+758,Salazzle,228,130,169,Veneno,Fuego,No
+759,Stufful,136,95,172,Normal,Lucha,No
+760,Bewear,226,141,260,Normal,Lucha,No
+761,Bounsweet,55,69,123,Planta,No,No
+762,Steenee,78,94,141,Planta,No,No
+763,Tsareena,222,195,176,Planta,No,No
+764,Comfey,165,215,139,Hada,No,No
+765,Oranguru,168,192,207,Normal,Psiquico,No
+766,Passimian,222,160,225,Lucha,No,No
+767,Wimpod,67,74,93,Bicho,Agua,No
+768,Golisopod,218,226,181,Bicho,Agua,No
+769,Sandygast,120,118,146,Fantasma,Tierra,No
+770,Palossand,178,178,198,Fantasma,Tierra,No
+771,Pyukumuku,97,224,146,Agua,No,No
+775,Komala,216,165,163,Normal,No,No
+776,Turtonator,165,215,155,Fuego,Dragon,No
+777,Togedemaru,190,145,163,Electrico,Acero,No
+779,Bruxish,208,145,169,Agua,Psiquico,No
+780,Drampa,231,164,186,Normal,Dragon,No
+782,Jangmo o,102,108,128,Dragon,No,No
+783,Hakamo o,145,162,146,Dragon,Lucha,No
+784,Kommo o,222,240,181,Dragon,Lucha,No
+785,Tapu Koko,250,181,172,Electrico,Hada,No
+786,Tapu Lele,259,208,172,Psiquico,Hada,No
+787,Tapu Bulu,249,215,172,Planta,Hada,No
+788,Tapu Fini,189,254,172,Agua,Hada,No
+789,Cosmog,54,57,125,Psiquico,No,No
+790,Cosmoem,54,242,125,Psiquico,No,No
+791,Solgaleo,255,191,264,Psiquico,Acero,No
+792,Lunala,255,191,264,Psiquico,Fantasma,No
+793,Nihilego,249,210,240,Roca,Veneno,No
+794,Buzzwole,236,196,216,Bicho,Lucha,No
+795,Pheromosa,316,85,174,Bicho,Lucha,No
+796,Xurkitree,330,144,195,Electrico,No,No
+797,Celesteela,207,199,219,Acero,Volador,No
+798,Kartana,323,182,139,Planta,Acero,No
+799,Guzzlord,188,99,440,Siniestro,Dragon,No
+800,Necrozma,251,195,219,Psiquico,No,No
+800,Necrozma Melena Crepuscular,277,220,200,Psiquico,No,No
+800,Necrozma Alas del Alba,277,220,200,Psiquico,No,No
+802,Marshadow,265,190,207,Lucha,Fantasma,No
+803,Poipole,145,133,167,Veneno,No,No
+804,Naganadel,263,159,177,Veneno,Dragon,No
+805,Stakataka,213,298,156,Roca,Acero,No
+806,Blacephalon,315,148,142,Fuego,Fantasma,No
+808,Meltan,118,99,130,Acero,No,No
+809,Melmetal,226,190,264,Acero,No,No
+819,Skwovet,95,86,172,#N/A,#N/A,#N/A
+820,Greedent,160,156,260,#N/A,#N/A,#N/A
+831,Wooloo,76,97,123,#N/A,#N/A,#N/A
+832,Dubwool,159,198,176,#N/A,#N/A,#N/A
+862,Obstagoon,180,194,212,#N/A,#N/A,#N/A
+863,Perrserker,195,162,172,#N/A,#N/A,#N/A
+865,Sirfetchd,248,176,158,#N/A,#N/A,#N/A
+866,Mr Rime,212,179,190,#N/A,#N/A,#N/A
+867,Runerigus,163,237,151,#N/A,#N/A,#N/A
+870,Falinks,193,170,163,#N/A,#N/A,#N/A
+888,Zacian Heroe de Batallas,254,236,192,#N/A,#N/A,#N/A
+889,Zamazenta Heroe de Batallas,254,236,192,#N/A,#N/A,#N/A
+893,Zarude,242,215,233,#N/A,#N/A,#N/A
+894,Regieleki,250,125,190,#N/A,#N/A,#N/A
+895,Regidrago,202,101,400,#N/A,#N/A,#N/A
+899,Wyrdeer,206,145,230,#N/A,#N/A,#N/A
+900,Kleavor,253,174,172,#N/A,#N/A,#N/A
+901,Ursaluna,243,181,277,#N/A,#N/A,#N/A
+903,Sneasler,259,158,190,#N/A,#N/A,#N/A
+904,Overqwil,222,171,198,#N/A,#N/A,#N/A
+905,Enamorus Avatar,281,162,179,#N/A,#N/A,#N/A
+905,Enamorus Totem,250,201,179,#N/A,#N/A,#N/A
+906,Sprigatito,116,99,120,#N/A,#N/A,#N/A
+907,Floragato,157,128,156,#N/A,#N/A,#N/A
+908,Meowscarada,233,153,183,#N/A,#N/A,#N/A
+909,Fuecoco,112,96,167,#N/A,#N/A,#N/A
+910,Crocalor,162,134,191,#N/A,#N/A,#N/A
+911,Skeledirge,207,178,232,#N/A,#N/A,#N/A
+912,Quaxly,120,86,146,#N/A,#N/A,#N/A
+913,Quaxwell,162,123,172,#N/A,#N/A,#N/A
+914,Quaquaval,236,159,198,#N/A,#N/A,#N/A
+915,Lechonk,81,79,144,#N/A,#N/A,#N/A
+916,Oinkologne M,186,153,242,#N/A,#N/A,#N/A
+916,Oinkologne F,169,162,251,#N/A,#N/A,#N/A
+919,Nymble,81,65,107,#N/A,#N/A,#N/A
+920,Lokix,199,144,174,#N/A,#N/A,#N/A
+921,Pawmi,95,45,128,#N/A,#N/A,#N/A
+922,Pawmo,147,82,155,#N/A,#N/A,#N/A
+923,Pawmot,232,141,172,#N/A,#N/A,#N/A
+928,Smoliv,100,89,121,#N/A,#N/A,#N/A
+929,Dolliv,137,131,141,#N/A,#N/A,#N/A
+930,Arboliva,219,189,186,#N/A,#N/A,#N/A
+935,Charcadet,92,74,120,#N/A,#N/A,#N/A
+936,Armarouge,234,185,198,#N/A,#N/A,#N/A
+937,Ceruledge,239,189,181,#N/A,#N/A,#N/A
+938,Tadbulb,104,73,156,#N/A,#N/A,#N/A
+939,Bellibolt,184,165,240,#N/A,#N/A,#N/A
+960,Wiglett,109,52,67,#N/A,#N/A,#N/A
+961,Wugtrio,205,136,111,#N/A,#N/A,#N/A
+962,Bombirdier,198,172,172,#N/A,#N/A,#N/A
+965,Varoom,123,107,128,#N/A,#N/A,#N/A
+966,Revavroom,229,168,190,#N/A,#N/A,#N/A
+971,Greavard,105,106,137,#N/A,#N/A,#N/A
+972,Houndstone,186,195,176,#N/A,#N/A,#N/A
+974,Cetoddle,119,80,239,#N/A,#N/A,#N/A
+975,Cetitan,208,123,347,#N/A,#N/A,#N/A
+979,Annihilape,220,178,242,#N/A,#N/A,#N/A
+980,Clodsire,127,151,277,#N/A,#N/A,#N/A
+996,Frigibax,134,86,163,#N/A,#N/A,#N/A
+997,Arctibax,173,128,207,#N/A,#N/A,#N/A
+998,Baxcalibur,254,168,229,#N/A,#N/A,#N/A
+999,Gimmighoul,140,76,128,#N/A,#N/A,#N/A
+1000,Gholdengo,252,190,202,#N/A,#N/A,#N/A
