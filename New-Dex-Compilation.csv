@@ -67,7 +67,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 51,Dugtrio Alola,201,142,111,Tierra,Acero,No
 52,Meowth,92,78,120,Normal,No,No
 52,Meowth Alola,99,78,120,Siniestro,No,No
-52,Meowth Galar,115,92,137,N/A,N/A,N/A
+52,Meowth Galar,115,92,137,tbc,tbc,tbc
 53,Persian,150,136,163,Normal,No,No
 53,Persian Alola,158,136,163,Siniestro,No,No
 54,Psyduck,122,95,137,Agua,No,No
@@ -75,9 +75,9 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 56,Mankey,148,82,120,Lucha,No,No
 57,Primeape,207,138,163,Lucha,No,No
 58,Growlithe,136,93,146,Fuego,No,No
-58,Growlithe Hisui,142,92,155,N/A,N/A,N/A
+58,Growlithe Hisui,142,92,155,tbc,tbc,tbc
 59,Arcanine,227,166,207,Fuego,No,No
-59,Arcanine Hisui,232,165,216,N/A,N/A,N/A
+59,Arcanine Hisui,232,165,216,tbc,tbc,tbc
 60,Poliwag,101,82,120,Agua,No,No
 61,Poliwhirl,130,123,163,Agua,No,No
 62,Poliwrath,182,184,207,Agua,Lucha,No
@@ -100,18 +100,18 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 76,Golem,211,198,190,Roca,Tierra,No
 76,Golem alola,211,198,190,Roca,Electrico,No
 77,Ponyta,170,127,137,Fuego,No,No
-77,Ponyta Galar,170,127,137,N/A,N/A,N/A
+77,Ponyta Galar,170,127,137,tbc,tbc,tbc
 78,Rapidash,207,162,163,Fuego,No,No
-78,Rapidash Galar,207,162,163,N/A,N/A,N/A
+78,Rapidash Galar,207,162,163,tbc,tbc,tbc
 79,Slowpoke,109,98,207,Agua,Psiquico,No
 79,Slowpoke,109,98,207,Agua,Psiquico,No
 80,Slowbro,177,180,216,Agua,Psiquico,No
 80,Mega Slowbro,224,259,216,Agua,Psiquico,No
-80,Slowbro Galar,182,156,216,N/A,N/A,N/A
+80,Slowbro Galar,182,156,216,tbc,tbc,tbc
 81,Magnemite,165,121,93,Electrico,Acero,No
 82,Magneton,223,169,137,Electrico,Acero,No
 83,Farfetchd,124,115,141,Normal,Volador,No
-83,Farfetchd Galar,174,114,141,N/A,N/A,N/A
+83,Farfetchd Galar,174,114,141,tbc,tbc,tbc
 84,Doduo,158,83,111,Normal,Volador,No
 85,Dodrio,218,140,155,Normal,Volador,No
 86,Seel,85,121,163,Agua,No,No
@@ -132,9 +132,9 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 98,Krabby,181,124,102,Agua,No,No
 99,Kingler,240,181,146,Agua,No,No
 100,Voltorb,109,111,120,Electrico,No,No
-100,Voltorb Hisui,109,111,120,N/A,N/A,N/A
+100,Voltorb Hisui,109,111,120,tbc,tbc,tbc
 101,Electrode,173,173,155,Electrico,No,No
-101,Electrode Hisui,176,176,155,N/A,N/A,N/A
+101,Electrode Hisui,176,176,155,tbc,tbc,tbc
 102,Exeggcute,107,125,155,Planta,Psiquico,No
 103,Exeggutor,233,149,216,Planta,Psiquico,No
 103,Exeggutor Alola,230,153,216,Planta,Dragon,No
@@ -146,7 +146,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 108,Lickitung,108,137,207,Normal,No,No
 109,Koffing,119,141,120,Veneno,No,No
 110,Weezing,174,197,163,Veneno,No,No
-110,Weezing Galar,174,197,163,N/A,N/A,N/A
+110,Weezing Galar,174,197,163,tbc,tbc,tbc
 111,Rhyhorn,140,127,190,Tierra,Roca,No
 112,Rhydon,222,171,233,Tierra,Roca,No
 113,Chansey,60,128,487,Normal,No,No
@@ -160,7 +160,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 120,Staryu,137,112,102,Agua,No,No
 121,Starmie,210,184,155,Agua,Psiquico,No
 122,Mr Mime,192,205,120,Psiquico,Hada,No
-122,Mr Mime Galar,183,169,137,N/A,N/A,N/A
+122,Mr Mime Galar,183,169,137,tbc,tbc,tbc
 123,Scyther,218,170,172,Bicho,Volador,No
 124,Jynx,223,151,163,Hielo,Psiquico,No
 125,Electabuzz,198,158,163,Electrico,No,No
@@ -186,16 +186,16 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 142,Mega Aerodactyl,292,210,190,Roca,Volador,No
 143,Snorlax,190,169,330,Normal,No,No
 144,Articuno,192,236,207,Hielo,Volador,Si
-144,Articuno Galar,250,197,207,N/A,N/A,N/A
+144,Articuno Galar,250,197,207,tbc,tbc,tbc
 145,Zapdos,253,185,207,Electrico,Volador,Si
-145,Zapdos Galar,252,189,207,N/A,N/A,N/A
+145,Zapdos Galar,252,189,207,tbc,tbc,tbc
 146,Moltres,251,181,207,Fuego,Volador,Si
-146,Moltres Galar,202,231,207,N/A,N/A,N/A
+146,Moltres Galar,202,231,207,tbc,tbc,tbc
 147,Dratini,119,91,121,Dragon,No,No
 148,Dragonair,163,135,156,Dragon,No,No
 149,Dragonite,263,198,209,Dragon,Volador,No
 150,Mewtwo,300,182,214,Psiquico,No,Si
-150,Mewtwo Armadura,182,278,214,N/A,N/A,N/A
+150,Mewtwo Armadura,182,278,214,tbc,tbc,tbc
 151,Mew,210,210,225,Psiquico,No,No
 152,Chikorita,92,122,128,Planta,No,No
 153,Bayleef,122,155,155,Planta,No,No
@@ -203,7 +203,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 155,Cyndaquil,116,93,118,Fuego,No,No
 156,Quilava,158,126,151,Fuego,No,No
 157,Typhlosion,223,173,186,Fuego,No,No
-157,Typhlosion Hisui,238,172,177,N/A,N/A,N/A
+157,Typhlosion Hisui,238,172,177,tbc,tbc,tbc
 158,Totodile,117,109,137,Agua,No,No
 159,Croconaw,150,142,163,Agua,No,No
 160,Feraligatr,205,188,198,Agua,No,No
@@ -242,13 +242,13 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 192,Sunflora,185,135,181,Planta,No,No
 193,Yanma,154,94,163,Bicho,Volador,No
 194,Wooper,75,66,146,Agua,Tierra,No
-194,Wooper Paldea,75,66,146,N/A,N/A,N/A
+194,Wooper Paldea,75,66,146,tbc,tbc,tbc
 195,Quagsire,152,143,216,Agua,Tierra,No
 196,Espeon,261,175,163,Psiquico,No,No
 197,Umbreon,126,240,216,Siniestro,No,No
 198,Murkrow,175,87,155,Siniestro,Volador,No
 199,Slowking,177,180,216,Agua,Psiquico,No
-199,Slowking Galar,190,180,216,N/A,N/A,N/A
+199,Slowking Galar,190,180,216,tbc,tbc,tbc
 200,Misdreavus,167,154,155,Fantasma,No,No
 201,Unown,136,91,134,Psiquico,No,No
 202,Wobbuffet,60,106,382,Psiquico,No,No
@@ -262,14 +262,14 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 209,Snubbull,137,85,155,Hada,No,No
 210,Granbull,212,131,207,Hada,No,No
 211,Qwilfish,184,138,163,Agua,Veneno,No
-211,Qwilfish Hisui,184,151,163,N/A,N/A,N/A
+211,Qwilfish Hisui,184,151,163,tbc,tbc,tbc
 212,Scizor,236,181,172,Bicho,Acero,No
 212,Mega Scizor,279,250,172,Bicho,Acero,No
 213,Shuckle,17,396,85,Bicho,Roca,No
 214,Heracross,234,179,190,Bicho,Lucha,No
 214,Mega Heracross,334,223,190,Bicho,Lucha,No
 215,Sneasel,189,146,146,Siniestro,Hielo,No
-215,Sneasel Hisui,189,146,146,N/A,N/A,N/A
+215,Sneasel Hisui,189,146,146,tbc,tbc,tbc
 216,Teddiursa,142,93,155,Normal,No,No
 217,Ursaring,236,144,207,Normal,No,No
 218,Slugma,118,71,120,Fuego,No,No
@@ -323,9 +323,9 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 261,Poochyena,96,61,111,Siniestro,No,No
 262,Mightyena,171,132,172,Siniestro,No,No
 263,Zigzagoon,58,80,116,Normal,No,No
-263,Zigzagoon Galar,58,80,116,N/A,N/A,N/A
+263,Zigzagoon Galar,58,80,116,tbc,tbc,tbc
 264,Linoone,142,128,186,Normal,No,No
-264,Linoone Galar,142,128,186,N/A,N/A,N/A
+264,Linoone Galar,142,128,186,tbc,tbc,tbc
 265,Wurmple,75,59,128,Bicho,No,No
 266,Silcoon,60,77,137,Bicho,No,No
 267,Beautifly,189,98,155,Bicho,Volador,No
@@ -421,7 +421,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 351,Castform Normal,139,139,172,Normal,No,No
 351,Castform Lluvia,139,139,172,Agua,No,No
 351,Castform Nieve,139,139,172,Hielo,No,No
-351,Castform Soleado,139,139,172,N/A,N/A,N/A
+351,Castform Soleado,139,139,172,tbc,tbc,tbc
 352,Kecleon,161,189,155,Normal,No,No
 353,Shuppet,138,65,127,Fantasma,No,No
 354,Banette,218,126,162,Fantasma,No,No
@@ -459,9 +459,9 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 381,Latios,268,212,190,Dragon,Psiquico,Si
 381,Mega Latios,335,241,190,Dragon,Psiquico,Si
 382,Kyogre,270,228,205,Agua,No,Si
-382,Kyogre Primigenio,353,268,218,N/A,N/A,N/A
+382,Kyogre Primigenio,353,268,218,tbc,tbc,tbc
 383,Groudon,270,228,205,Tierra,No,Si
-383,Groudon Primigenio,353,268,218,N/A,N/A,N/A
+383,Groudon Primigenio,353,268,218,tbc,tbc,tbc
 384,Rayquaza,284,170,213,Dragon,Volador,Si
 384,Mega Rayquaza,377,210,227,Dragon,Volador,Si
 385,Jirachi,210,210,225,Acero,Psiquico,Si
@@ -494,7 +494,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 409,Rampardos,295,109,219,Roca,No,No
 410,Shieldon,76,195,102,Roca,Acero,No
 411,Bastiodon,94,286,155,Roca,Acero,No
-412,Burmy,53,83,120,N/A,N/A,N/A
+412,Burmy,53,83,120,tbc,tbc,tbc
 413,Wormadam Planta,141,180,155,Bicho,Planta,No
 413,Wormadam Arena,141,180,155,Bicho,Tierra,No
 413,Wormadam Basura,127,175,155,Bicho,Acero,No
@@ -505,8 +505,8 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 418,Buizel,132,67,146,Agua,No,No
 419,Floatzel,221,114,198,Agua,No,No
 420,Cherubi,108,92,128,Planta,No,No
-421,Cherrim Overcast,170,153,172,N/A,N/A,N/A
-421,Cherrim Solar,170,153,172,N/A,N/A,N/A
+421,Cherrim Overcast,170,153,172,tbc,tbc,tbc
+421,Cherrim Solar,170,153,172,tbc,tbc,tbc
 422,Shellos,103,105,183,Agua,No,No
 423,Gastrodon,169,143,244,Agua,Tierra,No
 424,Ambipom,205,143,181,Normal,No,No
@@ -601,7 +601,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 501,Oshawott,117,85,146,Agua,No,No
 502,Dewott,159,116,181,Agua,No,No
 503,Samurott,212,157,216,Agua,No,No
-503,Samurott Hisui,218,152,207,N/A,N/A,N/A
+503,Samurott Hisui,218,152,207,tbc,tbc,tbc
 504,Patrat,98,73,128,Normal,No,No
 505,Watchog,165,139,155,Normal,No,No
 506,Lillipup,107,86,128,Normal,No,No
@@ -650,16 +650,16 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 549,Lilligant,214,155,172,Planta,No,No
 550,Basculin Rojo,189,129,172,Agua,No,No
 550,Basculin Azul,189,129,172,Agua,No,No
-550,Basculin Blanco,189,129,172,N/A,N/A,N/A
+550,Basculin Blanco,189,129,172,tbc,tbc,tbc
 551,Sandile,132,69,137,Tierra,Siniestro,No
 552,Krokorok,155,90,155,Tierra,Siniestro,No
 553,Krookodile,229,158,216,Tierra,Siniestro,No
 554,Darumaka,153,86,172,Fuego,No,No
-554,Darumaka Galar,153,86,172,N/A,N/A,N/A
+554,Darumaka Galar,153,86,172,tbc,tbc,tbc
 555,Darmanitan Estandar,263,114,233,Fuego,No,No
 555,Darmanitan Zen,243,202,233,Fuego,Psiquico,No
-555,Darmanitan Galar Estandar,263,114,233,N/A,N/A,N/A
-555,Darmanitan Galar Zen,323,123,233,N/A,N/A,N/A
+555,Darmanitan Galar Estandar,263,114,233,tbc,tbc,tbc
+555,Darmanitan Galar Zen,323,123,233,tbc,tbc,tbc
 556,Maractus,201,130,181,Planta,No,No
 557,Dwebble,118,128,137,Bicho,Roca,No
 558,Crustle,188,200,172,Bicho,Roca,No
@@ -667,7 +667,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 560,Scrafty,163,222,163,Siniestro,Lucha,No
 561,Sigilyph,204,167,176,Psiquico,Volador,No
 562,Yamask,95,141,116,Fantasma,No,No
-562,Yamask Galar,95,141,116,N/A,N/A,N/A
+562,Yamask Galar,95,141,116,tbc,tbc,tbc
 563,Cofagrigus,163,237,151,Fantasma,No,No
 564,Tirtouga,134,146,144,Agua,Roca,No
 565,Carracosta,192,197,179,Agua,Roca,No
@@ -724,7 +724,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 616,Shelmet,72,140,137,Bicho,No,No
 617,Accelgor,220,120,190,Bicho,No,No
 618,Stunfisk,144,171,240,Tierra,Electrico,No
-618,Stunfisk Galar,144,171,240,N/A,N/A,N/A
+618,Stunfisk Galar,144,171,240,tbc,tbc,tbc
 619,Mienfoo,160,98,128,Lucha,No,No
 620,Mienshao,258,127,163,Lucha,No,No
 621,Druddigon,213,170,184,Dragon,No,No
@@ -735,7 +735,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 626,Bouffalant,195,182,216,Normal,No,No
 627,Rufflet,150,97,172,Normal,Volador,No
 628,Braviary,232,152,225,Normal,Volador,No
-628,Braviary Hisui,213,137,242,N/A,N/A,N/A
+628,Braviary Hisui,213,137,242,tbc,tbc,tbc
 629,Vullaby,105,139,172,Siniestro,Volador,No
 630,Mandibuzz,129,205,242,Siniestro,Volador,No
 631,Heatmor,204,129,198,Fuego,No,No
@@ -835,7 +835,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 711,Gourgeist Super,182,200,198,Fantasma,Planta,No
 712,Bergmite,117,120,146,Hielo,No,No
 713,Avalugg,196,240,216,Hielo,No,No
-713,Avalugg Hisui,214,238,216,N/A,N/A,N/A
+713,Avalugg Hisui,214,238,216,tbc,tbc,tbc
 714,Noibat,83,73,120,Volador,Dragon,No
 715,Noivern,205,175,198,Volador,Dragon,No
 716,Xerneas,250,185,246,Hada,No,Si
@@ -851,7 +851,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 722,Rowlet,102,99,169,Planta,Volador,No
 723,Dartrix,142,139,186,Planta,Volador,No
 724,Decidueye,210,179,186,Planta,Fantasma,No
-724,Decidueye Hisui,213,174,204,N/A,N/A,N/A
+724,Decidueye Hisui,213,174,204,tbc,tbc,tbc
 725,Litten,128,79,128,Fuego,No,No
 726,Torracat,174,103,163,Fuego,No,No
 727,Incineroar,214,175,216,Fuego,Siniestro,No
@@ -876,7 +876,7 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 745,Lycanroc Medianoche,218,152,198,Roca,No,No
 745,Lycanroc Anochecer,234,139,181,Roca,No,No
 746,Wishiwashi Solo,46,43,128,Agua,No,No
-746,Wishiwashi Banco,255,242,128,N/A,N/A,N/A
+746,Wishiwashi Banco,255,242,128,tbc,tbc,tbc
 747,Mareanie,98,110,137,Veneno,Agua,No
 748,Toxapex,114,273,137,Veneno,Agua,No
 749,Mudbray,175,121,172,Tierra,No,No
@@ -935,66 +935,66 @@ Numero,Pokémon,Attack,Defense,HP,Tipo1,Tipo2,Legendario
 806,Blacephalon,315,148,142,Fuego,Fantasma,No
 808,Meltan,118,99,130,Acero,No,No
 809,Melmetal,226,190,264,Acero,No,No
-819,Skwovet,95,86,172,N/A,N/A,N/A
-820,Greedent,160,156,260,N/A,N/A,N/A
-831,Wooloo,76,97,123,N/A,N/A,N/A
-832,Dubwool,159,198,176,N/A,N/A,N/A
-862,Obstagoon,180,194,212,N/A,N/A,N/A
-863,Perrserker,195,162,172,N/A,N/A,N/A
-865,Sirfetchd,248,176,158,N/A,N/A,N/A
-866,Mr Rime,212,179,190,N/A,N/A,N/A
-867,Runerigus,163,237,151,N/A,N/A,N/A
-870,Falinks,193,170,163,N/A,N/A,N/A
-888,Zacian Heroe de Batallas,254,236,192,N/A,N/A,N/A
-889,Zamazenta Heroe de Batallas,254,236,192,N/A,N/A,N/A
-893,Zarude,242,215,233,N/A,N/A,N/A
-894,Regieleki,250,125,190,N/A,N/A,N/A
-895,Regidrago,202,101,400,N/A,N/A,N/A
-899,Wyrdeer,206,145,230,N/A,N/A,N/A
-900,Kleavor,253,174,172,N/A,N/A,N/A
-901,Ursaluna,243,181,277,N/A,N/A,N/A
-903,Sneasler,259,158,190,N/A,N/A,N/A
-904,Overqwil,222,171,198,N/A,N/A,N/A
-905,Enamorus Avatar,281,162,179,N/A,N/A,N/A
-905,Enamorus Totem,250,201,179,N/A,N/A,N/A
-906,Sprigatito,116,99,120,N/A,N/A,N/A
-907,Floragato,157,128,156,N/A,N/A,N/A
-908,Meowscarada,233,153,183,N/A,N/A,N/A
-909,Fuecoco,112,96,167,N/A,N/A,N/A
-910,Crocalor,162,134,191,N/A,N/A,N/A
-911,Skeledirge,207,178,232,N/A,N/A,N/A
-912,Quaxly,120,86,146,N/A,N/A,N/A
-913,Quaxwell,162,123,172,N/A,N/A,N/A
-914,Quaquaval,236,159,198,N/A,N/A,N/A
-915,Lechonk,81,79,144,N/A,N/A,N/A
-916,Oinkologne M,186,153,242,N/A,N/A,N/A
-916,Oinkologne F,169,162,251,N/A,N/A,N/A
-919,Nymble,81,65,107,N/A,N/A,N/A
-920,Lokix,199,144,174,N/A,N/A,N/A
-921,Pawmi,95,45,128,N/A,N/A,N/A
-922,Pawmo,147,82,155,N/A,N/A,N/A
-923,Pawmot,232,141,172,N/A,N/A,N/A
-928,Smoliv,100,89,121,N/A,N/A,N/A
-929,Dolliv,137,131,141,N/A,N/A,N/A
-930,Arboliva,219,189,186,N/A,N/A,N/A
-935,Charcadet,92,74,120,N/A,N/A,N/A
-936,Armarouge,234,185,198,N/A,N/A,N/A
-937,Ceruledge,239,189,181,N/A,N/A,N/A
-938,Tadbulb,104,73,156,N/A,N/A,N/A
-939,Bellibolt,184,165,240,N/A,N/A,N/A
-960,Wiglett,109,52,67,N/A,N/A,N/A
-961,Wugtrio,205,136,111,N/A,N/A,N/A
-962,Bombirdier,198,172,172,N/A,N/A,N/A
-965,Varoom,123,107,128,N/A,N/A,N/A
-966,Revavroom,229,168,190,N/A,N/A,N/A
-971,Greavard,105,106,137,N/A,N/A,N/A
-972,Houndstone,186,195,176,N/A,N/A,N/A
-974,Cetoddle,119,80,239,N/A,N/A,N/A
-975,Cetitan,208,123,347,N/A,N/A,N/A
-979,Annihilape,220,178,242,N/A,N/A,N/A
-980,Clodsire,127,151,277,N/A,N/A,N/A
-996,Frigibax,134,86,163,N/A,N/A,N/A
-997,Arctibax,173,128,207,N/A,N/A,N/A
-998,Baxcalibur,254,168,229,N/A,N/A,N/A
-999,Gimmighoul,140,76,128,N/A,N/A,N/A
-1000,Gholdengo,252,190,202,N/A,N/A,N/A
+819,Skwovet,95,86,172,tbc,tbc,tbc
+820,Greedent,160,156,260,tbc,tbc,tbc
+831,Wooloo,76,97,123,tbc,tbc,tbc
+832,Dubwool,159,198,176,tbc,tbc,tbc
+862,Obstagoon,180,194,212,tbc,tbc,tbc
+863,Perrserker,195,162,172,tbc,tbc,tbc
+865,Sirfetchd,248,176,158,tbc,tbc,tbc
+866,Mr Rime,212,179,190,tbc,tbc,tbc
+867,Runerigus,163,237,151,tbc,tbc,tbc
+870,Falinks,193,170,163,tbc,tbc,tbc
+888,Zacian Heroe de Batallas,254,236,192,tbc,tbc,tbc
+889,Zamazenta Heroe de Batallas,254,236,192,tbc,tbc,tbc
+893,Zarude,242,215,233,tbc,tbc,tbc
+894,Regieleki,250,125,190,tbc,tbc,tbc
+895,Regidrago,202,101,400,tbc,tbc,tbc
+899,Wyrdeer,206,145,230,tbc,tbc,tbc
+900,Kleavor,253,174,172,tbc,tbc,tbc
+901,Ursaluna,243,181,277,tbc,tbc,tbc
+903,Sneasler,259,158,190,tbc,tbc,tbc
+904,Overqwil,222,171,198,tbc,tbc,tbc
+905,Enamorus Avatar,281,162,179,tbc,tbc,tbc
+905,Enamorus Totem,250,201,179,tbc,tbc,tbc
+906,Sprigatito,116,99,120,tbc,tbc,tbc
+907,Floragato,157,128,156,tbc,tbc,tbc
+908,Meowscarada,233,153,183,tbc,tbc,tbc
+909,Fuecoco,112,96,167,tbc,tbc,tbc
+910,Crocalor,162,134,191,tbc,tbc,tbc
+911,Skeledirge,207,178,232,tbc,tbc,tbc
+912,Quaxly,120,86,146,tbc,tbc,tbc
+913,Quaxwell,162,123,172,tbc,tbc,tbc
+914,Quaquaval,236,159,198,tbc,tbc,tbc
+915,Lechonk,81,79,144,tbc,tbc,tbc
+916,Oinkologne M,186,153,242,tbc,tbc,tbc
+916,Oinkologne F,169,162,251,tbc,tbc,tbc
+919,Nymble,81,65,107,tbc,tbc,tbc
+920,Lokix,199,144,174,tbc,tbc,tbc
+921,Pawmi,95,45,128,tbc,tbc,tbc
+922,Pawmo,147,82,155,tbc,tbc,tbc
+923,Pawmot,232,141,172,tbc,tbc,tbc
+928,Smoliv,100,89,121,tbc,tbc,tbc
+929,Dolliv,137,131,141,tbc,tbc,tbc
+930,Arboliva,219,189,186,tbc,tbc,tbc
+935,Charcadet,92,74,120,tbc,tbc,tbc
+936,Armarouge,234,185,198,tbc,tbc,tbc
+937,Ceruledge,239,189,181,tbc,tbc,tbc
+938,Tadbulb,104,73,156,tbc,tbc,tbc
+939,Bellibolt,184,165,240,tbc,tbc,tbc
+960,Wiglett,109,52,67,tbc,tbc,tbc
+961,Wugtrio,205,136,111,tbc,tbc,tbc
+962,Bombirdier,198,172,172,tbc,tbc,tbc
+965,Varoom,123,107,128,tbc,tbc,tbc
+966,Revavroom,229,168,190,tbc,tbc,tbc
+971,Greavard,105,106,137,tbc,tbc,tbc
+972,Houndstone,186,195,176,tbc,tbc,tbc
+974,Cetoddle,119,80,239,tbc,tbc,tbc
+975,Cetitan,208,123,347,tbc,tbc,tbc
+979,Annihilape,220,178,242,tbc,tbc,tbc
+980,Clodsire,127,151,277,tbc,tbc,tbc
+996,Frigibax,134,86,163,tbc,tbc,tbc
+997,Arctibax,173,128,207,tbc,tbc,tbc
+998,Baxcalibur,254,168,229,tbc,tbc,tbc
+999,Gimmighoul,140,76,128,tbc,tbc,tbc
+1000,Gholdengo,252,190,202,tbc,tbc,tbc
