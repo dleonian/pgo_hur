@@ -2,72 +2,61 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Generador de Infografías Pokémon para HurlinGO</title>
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 </head>
-<body class="bg-gray-100 p-6 font-sans">
-  <div class="max-w-4xl mx-auto bg-white p-6 rounded shadow">
-    <h1 class="text-2xl font-bold mb-4">Generador de Infografías Pokémon para HurlinGO</h1>
-    <div class="mb-4">
-      <label for="pokemonInput" class="block text-sm font-medium text-gray-700">Nombre del Pokémon:</label>
-      <input type="text" id="pokemonInput" class="mt-1 block w-full border border-gray-300 rounded p-2" placeholder="Ejemplo: Bulbasaur" />
-    </div>
-    <div class="flex space-x-4 mb-4">
-      <button id="searchBtn" class="bg-blue-500 text-white px-4 py-2 rounded">Buscar</button>
-      <button id="exportBtn" class="bg-green-500 text-white px-4 py-2 rounded">Exportar PNG</button>
-    </div>
-    <p id="errorMsg" class="text-red-500 mt-2 hidden">⚠️ No se encontraron datos para tu consulta. Intenta con otro término.</p>
+<body class="bg-white text-gray-800">
+  <div class="container mx-auto p-4">
+    <h1 class="text-2xl font-bold text-center mb-6">Generador de Infografías Pokémon para HurlinGO</h1>
 
-    <!-- Cuadro de resultados -->
-    <div id="result" class="mt-6 hidden p-4 bg-gray-50 rounded shadow">
-      <div class="flex items-center justify-center mb-4">
-        <!-- Imagen a la izquierda (espejada) -->
-        <img id="pokemonImageLeft" src="" alt="Pokemon Image Left" class="w-64 h-64 mr-4 transform scale-x-[-1]">
-        <h2 class="text-3xl font-semibold mb-2 text-center" id="pokemonName"></h2>
-        <!-- Imagen a la derecha -->
-        <img id="pokemonImageRight" src="" alt="Pokemon Image Right" class="w-64 h-64 ml-4">
-      </div>
-      
-      <!-- Sección de datos -->
-      <div class="overflow-x-auto mb-4">
-        <table class="table-auto w-full">
+    <div class="flex gap-4 justify-center items-center mb-4">
+      <input id="searchInput" type="text" placeholder="Ingresa el nombre del Pokémon" class="border rounded px-4 py-2 w-64" />
+      <button onclick="searchPokemon()" class="bg-blue-500 text-white px-4 py-2 rounded">Buscar</button>
+      <button onclick="exportAsImage()" class="bg-green-600 text-white px-4 py-2 rounded">Exportar PNG</button>
+    </div>
+
+    <div id="result" class="mt-6 hidden p-4 rounded shadow relative overflow-hidden bg-gray-200">
+      <!-- Fondo con logo -->
+      <div class="absolute inset-0 bg-center bg-contain bg-no-repeat opacity-20 pointer-events-none"
+           style="background-image: url('https://raw.githubusercontent.com/dleonian/pgo_hur/refs/heads/main/HurlinGO-logo-sin%20texto-sin%20fondo.png'); z-index: 0;"></div>
+
+      <div class="relative z-10">
+        <div class="flex justify-center items-center gap-4 mb-4">
+          <img id="img-normal" src="" alt="Normal" class="w-32 h-32 transform -scale-x-100" />
+          <h2 id="pokemon-name" class="text-3xl font-bold text-center"></h2>
+          <img id="img-shiny" src="" alt="Shiny" class="w-32 h-32" />
+        </div>
+
+        <table class="table-auto w-full text-center mb-4">
           <thead>
-            <tr>
-              <th class="border px-4 py-2 text-center w-1/4">Número</th>
-              <th class="border px-4 py-2 text-center w-1/4">Tipo 1</th>
-              <th class="border px-4 py-2 text-center w-1/4">Tipo 2</th>
-              <th class="border px-4 py-2 text-center w-1/4">Legendario</th>
+            <tr class="font-semibold">
+              <th class="w-1/4">Número</th>
+              <th class="w-1/4">Tipo 1</th>
+              <th class="w-1/4">Tipo 2</th>
+              <th class="w-1/4">Legendario</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td class="border px-4 py-2 text-center" id="pokemonNumber"></td>
-              <td class="border px-4 py-2 text-center" id="pokemonType1"></td>
-              <td class="border px-4 py-2 text-center" id="pokemonType2"></td>
-              <td class="border px-4 py-2 text-center" id="pokemonLegendary"></td>
+              <td id="numero"></td>
+              <td id="tipo1"></td>
+              <td id="tipo2"></td>
+              <td id="legendario"></td>
             </tr>
           </tbody>
         </table>
-      </div>
 
-      <!-- Tabla de CP -->
-      <h3 class="text-lg font-semibold mb-2 text-center">Tabla de PC de IV100</h3>
-      <div class="overflow-x-auto w-full">
-        <table class="table-auto border-collapse border border-gray-300 w-full">
-          <tbody id="cpTable"></tbody>
-        </table>
+        <h3 class="text-xl font-semibold text-center mb-2">Tabla de PC de IV100</h3>
+        <table id="cp-table" class="table-auto w-full border text-center"></table>
       </div>
     </div>
   </div>
 
   <script>
-    const csvUrl = "https://raw.githubusercontent.com/dleonian/pgo_hur/main/New-Dex-Compilation.csv";
-    let pokemonData = [];
-
-    const multipliers = [
+    const MULTIPLIERS = [
       0.094,0.1663979,0.2157325,0.2557201,0.2902499,0.3210876,0.3492127,0.3752356,0.399567,0.4225,
       0.4431076,0.4627984,0.481685,0.4998584,0.517394,0.5343543,0.5507927,0.5667545,0.5822789,0.5974,
       0.6121573,0.6265671,0.640653,0.6544356,0.667934,0.6811649,0.6941437,0.7068842,0.7193991,0.7317,
@@ -75,108 +64,79 @@
       0.792803968,0.79530001,0.797800015,0.8003,0.802799995,0.8053,0.8078,0.81029999,0.812799985,0.81529999
     ];
 
-    function loadCSV() {
-      Papa.parse(csvUrl, {
-        download: true,
-        header: true,
-        complete: function(results) {
-          pokemonData = results.data.filter(p => p["Pokemon"]?.trim());
-        }
-      });
+    async function loadCSV() {
+      const url = 'https://raw.githubusercontent.com/dleonian/pgo_hur/main/New-Dex-Compilation.csv';
+      const response = await fetch(url);
+      const csv = await response.text();
+      return Papa.parse(csv, { header: true }).data;
     }
 
     function calculateCP(attack, defense, hp, multiplier) {
-      const atk = parseInt(attack) + 15;
-      const def = parseInt(defense) + 15;
-      const stamina = parseInt(hp) + 15;
-      const cp = Math.floor((atk * Math.sqrt(def) * Math.sqrt(stamina) * Math.pow(multiplier, 2)) / 10);
-      return cp;
+      return Math.floor(((attack + 15) * Math.sqrt(defense + 15) * Math.sqrt(hp + 15) * (multiplier ** 2)) / 10);
     }
 
-    function generateCPTable(attack, defense, hp) {
-      const table = document.getElementById("cpTable");
-      table.innerHTML = "";
+    async function searchPokemon() {
+      const name = document.getElementById('searchInput').value.trim().toLowerCase();
+      const data = await loadCSV();
 
-      // Inicializar un array para almacenar las columnas
-      const columns = Array(10).fill().map(() => []);
-
-      // Llenar las columnas con los valores correspondientes por nivel
-      for (let i = 0; i < 50; i++) {
-        const rowIndex = Math.floor(i / 5); // 5 valores por fila
-        const colIndex = i % 10; // 10 columnas
-        const cp = calculateCP(attack, defense, hp, multipliers[i]);
-        columns[rowIndex].push(cp); // Cambio: columna -> fila
-      }
-
-      // Crear las filas
-      for (let i = 0; i < 5; i++) {
-        const tr = document.createElement("tr");
-        columns.forEach(col => {
-          const td = document.createElement("td");
-          td.textContent = col[i];
-          td.className = "border border-gray-300 px-2 py-1 text-center";
-          tr.appendChild(td);
-        });
-        table.appendChild(tr);
-      }
-    }
-
-    function updateImages(pokemonNumber) {
-      const pokemonImageLeft = document.getElementById("pokemonImageLeft");
-      const pokemonImageRight = document.getElementById("pokemonImageRight");
-
-      // Construir las URLs de las imágenes
-      const imageBaseUrl = "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/";
-      const imageName = pokemonNumber.toString().padStart(3, '0');
-
-      pokemonImageLeft.src = `${imageBaseUrl}pokemon_icon_${imageName}_00.png`;
-      pokemonImageRight.src = `${imageBaseUrl}pokemon_icon_${imageName}_00_shiny.png`;
-    }
-
-    document.getElementById("searchBtn").addEventListener("click", () => {
-      const input = document.getElementById("pokemonInput").value.trim().toLowerCase();
-      const resultDiv = document.getElementById("result");
-      const errorMsg = document.getElementById("errorMsg");
-      resultDiv.classList.add("hidden");
-      errorMsg.classList.add("hidden");
-
-      const pokemon = pokemonData.find(p =>
-        (p["Pokemon"] || "").trim().toLowerCase() === input
-      );
-
-      if (pokemon) {
-        document.getElementById("pokemonName").textContent = pokemon["Pokemon"];
-        document.getElementById("pokemonNumber").textContent = pokemon["Numero"];
-        document.getElementById("pokemonType1").textContent = pokemon["Tipo1"];
-        document.getElementById("pokemonType2").textContent = pokemon["Tipo2"] === "No" ? "" : pokemon["Tipo2"];
-        document.getElementById("pokemonLegendary").textContent = pokemon["Legendario"];
-        generateCPTable(pokemon["Attack"], pokemon["Defense"], pokemon["HP"]);
-
-        // Actualizar imágenes
-        updateImages(pokemon["Numero"]);
-
-        resultDiv.classList.remove("hidden");
-      } else {
-        errorMsg.classList.remove("hidden");
-      }
-    });
-
-    document.getElementById("exportBtn").addEventListener("click", () => {
-      const resultDiv = document.getElementById("result");
-      if (resultDiv.classList.contains("hidden")) {
-        alert("Primero busca un Pokémon.");
+      const p = data.find(d => d.Pokemon?.toLowerCase() === name);
+      if (!p) {
+        alert("No se encontró ese Pokémon. Intenta de nuevo.");
         return;
       }
 
-      html2canvas(resultDiv, {backgroundColor: null}).then(canvas => {
+      document.getElementById("result").classList.remove("hidden");
+      document.getElementById("pokemon-name").textContent = p.Pokemon;
+      document.getElementById("numero").textContent = p.Numero;
+      document.getElementById("tipo1").textContent = p.Tipo1;
+      document.getElementById("tipo2").textContent = p.Tipo2 === "No" ? "" : p.Tipo2;
+      document.getElementById("legendario").textContent = p.Legendario;
+
+      // Imágenes
+      const paddedNum = p.Numero.toString().padStart(3, '0');
+      document.getElementById("img-normal").src = `https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_${paddedNum}_00.png`;
+      document.getElementById("img-shiny").src = `https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_${paddedNum}_00_shiny.png`;
+
+      // Tabla CP
+      const cpTable = document.getElementById("cp-table");
+      cpTable.innerHTML = "";
+      const columns = Array.from({ length: 10 }, () => []);
+
+      for (let i = 0; i < 50; i++) {
+        const cp = calculateCP(+p.Attack, +p.Defense, +p.HP, MULTIPLIERS[i]);
+        const colIndex = Math.floor(i / 5);
+        const rowIndex = i % 5;
+        columns[colIndex].push(cp);
+      }
+
+      for (let row = 0; row < 5; row++) {
+        const tr = document.createElement("tr");
+        for (let col = 0; col < 10; col++) {
+          const td = document.createElement("td");
+          td.textContent = columns[col][row];
+
+          let cpClass = "";
+          if (col < 6) cpClass = "text-green-800";
+          else if (col === 6) cpClass = "text-orange-600";
+          else if (col === 7) cpClass = "text-orange-600 font-bold";
+          else cpClass = "text-red-600 font-bold";
+
+          td.className = `px-2 py-1 border ${cpClass}`;
+          tr.appendChild(td);
+        }
+        cpTable.appendChild(tr);
+      }
+    }
+
+    function exportAsImage() {
+      const result = document.getElementById("result");
+      html2canvas(result, { backgroundColor: null }).then(canvas => {
         const link = document.createElement("a");
-        link.href = canvas.toDataURL("image/png");
-        link.download = "pokemon_infographic.png";
+        link.download = "infografia_pokemon.png";
+        link.href = canvas.toDataURL();
         link.click();
       });
-    });
-
-    loadCSV();
+    }
   </script>
 </body>
 </html>
